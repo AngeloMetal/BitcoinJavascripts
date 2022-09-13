@@ -27,7 +27,7 @@ function privateKeyWIF(private_key, network, compressed){
     }else{
         console.log("Network: mainnet")
     }
-    if(network != null){
+    if(compressed != null){
         console.log("Compressed: " + compressed)
     }else{
         console.log("Compressed: true")
