@@ -11,7 +11,7 @@ Options for ``<compressed>``: "true", "false" (by default, it's true)
 
 Example:
 ```
-$ node s.js 8f0dc902c75db6a6f33b4527df96f6d4c8f19b9956f422d4a1b5e5d3c984981e mainnet true
+$ node wif.js 8f0dc902c75db6a6f33b4527df96f6d4c8f19b9956f422d4a1b5e5d3c984981e mainnet true
 Private Key (32 bytes): 8f0dc902c75db6a6f33b4527df96f6d4c8f19b9956f422d4a1b5e5d3c984981e
 Network: mainnet
 Compressed: true
